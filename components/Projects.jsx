@@ -7,7 +7,7 @@ export const Projects = () => {
   return (
     <div id='project' className='h-screen w-screen grid grid-cols-3 grid-rows-2'>
         <div className=" bg-[#DC143C] flex flex-col items-center">
-            <p className='font-black text-lg p-12 mt-6  h-4/5 '>As my first foray into React JS development, I've crafted a comprehensive cryptocurrency information platform. This website offers users real-time updates on coin prices, a meticulously curated list of the top 10 cryptocurrencies, and a plethora of essential market data</p>
+            <p className='font-black text-lg p-12 mt-6  h-4/5 '>As my first foray into React JS development, I&apos;ve crafted a comprehensive cryptocurrency information platform. This website offers users real-time updates on coin prices, a meticulously curated list of the top 10 cryptocurrencies, and a plethora of essential market data</p>
             <hr className='w-4/5'/>
             <div className='flex gap-2 m-5'>
                 <Link href="https://thetulgaa.github.io/crypto-begins/" target='_blank'><TbWorld  size={40}/></Link>

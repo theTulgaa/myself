@@ -13,7 +13,7 @@ export const About = () => {
             </div>
             <div className="h-full flex-1 bg-[#008080] flex justify-center items-center flex-col">
                 <span className='font-black text-3xl'>About me</span>
-                <p className='w-1/2'>I'm Erdenetulga Lkhagvachuluu, junior computer science student from Ulaanbaatar, Mongolia. I have been programming for 4 years and this is demo of my portfolio.</p>
+                <p className='w-1/2'>I&apos;m Erdenetulga Lkhagvachuluu, junior computer science student from Ulaanbaatar, Mongolia. I have been programming for 4 years and this is demo of my portfolio.</p>
             </div>
         </div>
         <div className="flex w-full flex-1">
@@ -21,8 +21,8 @@ export const About = () => {
                 <span className='text-center font-black text-3xl flex justify-center items-center mt-20'>They call me <span className='text-black text-5xl mx-3'> VIGILANTE</span></span>
                 <hr className='w-1/2 mt-3' />
                 <p className='w-1/2 font-black text-lg mt-10'>
-                    I was born on July 6th, 2004. I am the eldest son of my parents. My childhood was spent in a small town called Bayantes, which borders Russia. Like most of the children in Mongolia, I was raised playing football, basketball, and other activities.  I've always had a natural inclination toward science. Growing up, I devoured science fiction comics and biographies of renowned scientists. This early exposure undoubtedly fueled my decision to pursue a career in this field.
-                    I've found programming to be incredibly enjoyable. The ability to bring my ideas to life simply by instructing a computer is incredibly empowering. My programming skills have significantly improved since I first attempted to build a calculator app. But this is not enough, i know that all we can do is improve. As engineers, we have a responsibility to make the world a better place. To achieve this, we must commit to lifelong learning.
+                    I was born on July 6th, 2004. I am the eldest son of my parents. My childhood was spent in a small town called Bayantes, which borders Russia. Like most of the children in Mongolia, I was raised playing football, basketball, and other activities.  I&apos;ve always had a natural inclination toward science. Growing up, I devoured science fiction comics and biographies of renowned scientists. This early exposure undoubtedly fueled my decision to pursue a career in this field.
+                    I&apos;ve found programming to be incredibly enjoyable. The ability to bring my ideas to life simply by instructing a computer is incredibly empowering. My programming skills have significantly improved since I first attempted to build a calculator app. But this is not enough, i know that all we can do is improve. As engineers, we have a responsibility to make the world a better place. To achieve this, we must commit to lifelong learning.
                 </p>
                 <hr className='w-1/2 mt-3' />
                 <span className='font-black text-2xl mt-20 text-green-500 border rounded-lg p-4'>Get in touch with me</span>
