@@ -23,10 +23,10 @@ export const Projects = () => {
             </div>
         </div>
         <div className=" bg-[#C71585] flex flex-col items-center">
-            <p className='font-black text-lg p-12 mt-6 h-4/5'>My friend and I joined forces to create a robust React-based matrix calculator. This versatile web application equips users with the tools to perform a diverse array of matrix operations, from simple addition and subtraction to intricate matrix equations. </p>
+            <p className='font-black text-lg p-12 mt-6 h-4/5'>This is my first ever project i worked as full-stack developer. You can add post just like other famous platforms. YOu can also like and comment on post </p>
             <hr className='w-4/5'/>
             <div className='flex gap-2 m-5'>
-                <Link href="https://thetulgaa.github.io/matrix-begins/" target='_blank'><TbWorld  size={40}/></Link>
+                <Link href="https://hello-4-53n6.onrender.com/" target='_blank'><TbWorld  size={40}/></Link>
                 <Link href="https://github.com/theTulgaa/matrix-begins" target='_blank'><FaGithub  size={40}/></Link>
             </div>
         </div>
